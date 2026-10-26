@@ -50,6 +50,9 @@ Analyzes waste costs, expiry risks, and units produced versus units sold.
 - Use customer and product sales patterns to support inventory and marketing decisions.
 
 ## Project Files
+- [Power BI Dashboard (.pbix)](Bakery%20Sales%20Report.pbix)
+- [SQL Analysis Script](SQL%20Script.sql)
+- [Bakery Dataset (.csv)](Bakery_dataset.csv)
 
 - Power BI report (`.pbix`)
 - Bakery dataset (`.csv`)
