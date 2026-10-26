@@ -15,6 +15,7 @@ The objective is to identify business trends, evaluate profitability, understand
 ## Dashboard Pages
 
 **1. Sales Overview**
+![Sales Overview](01_Sales_Overview.png)
 
 Analyzes revenue, quantity sold, sales by category, top-selling products, monthly sales trends, and weekday versus weekend performance.
 
