@@ -20,14 +20,17 @@ The objective is to identify business trends, evaluate profitability, understand
 Analyzes revenue, quantity sold, sales by category, top-selling products, monthly sales trends, and weekday versus weekend performance.
 
 **2. Product & Profit Analysis**
+![Product & Profit Analysis](02_Product_Profit.png)
 
 Examines profitable and loss-making products, sales versus profit, and promotional performance.
 
 **3. Customer Analysis**
+![Customer Analysis](03_Customer_Analysis.png)
 
 Explores customer segments, unique customers, satisfaction ratings, and loyalty membership.
 
 **4. Inventory & Waste Analysis**
+![Inventory & Waste Analysis](04_Inventory_Waste.png)
 
 Analyzes waste costs, expiry risks, and units produced versus units sold.
 
