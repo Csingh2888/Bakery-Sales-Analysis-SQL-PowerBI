@@ -54,11 +54,6 @@ Analyzes waste costs, expiry risks, and units produced versus units sold.
 - [SQL Analysis Script](SQL%20Script.sql)
 - [Bakery Dataset (.csv)](Bakery_dataset.csv)
 
-- Power BI report (`.pbix`)
-- Bakery dataset (`.csv`)
-- SQL analysis queries
-- Dashboard screenshots
-
 ## Conclusion
 
 This project demonstrates how SQL and Power BI can transform transactional bakery data into actionable business insights, supporting better sales, profitability, customer, and inventory decisions.
